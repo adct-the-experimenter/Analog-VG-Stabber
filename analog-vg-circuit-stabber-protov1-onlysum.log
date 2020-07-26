@@ -1,0 +1,21 @@
+Circuit: * Z:\home\pab\Circuits\analog-vg-circuit-stabber\analog-vg-circuit-stabber-protov1-onlysum.asc
+
+Per .tran options, skipping operating point for transient analysis.
+
+Date: Sun Jul 26 15:29:13 2020
+Total elapsed time: 0.670 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 100310
+traniter = 100310
+tranpoints = 50112
+accept = 50084
+rejected = 28
+matrix size = 18
+fillins = 0
+solver = Normal
+Matrix Compiler1: 908 bytes object code size  0.5/0.2/[0.2]
+Matrix Compiler2: 1.81 KB object code size  0.3/0.4/[0.3]
+
