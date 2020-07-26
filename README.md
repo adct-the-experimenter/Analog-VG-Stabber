@@ -3,6 +3,9 @@
 This is an ambitious project that will make a video game completely out of 
 analog circuit components and using only analog circuit logic.
 
+Output of analog circuit will be a video signal that will be passed through
+a composite or component cable and then to the TV.
+
 ## The Game
 
 The game is called Stabber. 
