@@ -18,5 +18,5 @@ If a player's avatar is stabbed, then that player is eliminated.
 
 Last player standing is the winner.
 
-One joystick controls the player's position, the other joystick controlls the player's weapon position.
+One joystick controls the player's position, the other joystick controlls the player's weapon position relative to the player.
 
